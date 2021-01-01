@@ -192,3 +192,5 @@ Desktop.ini
 $RECYCLE.BIN/
 dependencies/tools/lastrev.txt
 buildnumber.h
+
+.vs
